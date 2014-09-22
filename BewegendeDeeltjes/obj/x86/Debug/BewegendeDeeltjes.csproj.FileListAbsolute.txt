@@ -1,0 +1,15 @@
+C:\Users\Dick\AppData\Local\Temporary Projects\BewegendeDeeltjes\bin\Debug\BewegendeDeeltjes.exe
+C:\Users\Dick\AppData\Local\Temporary Projects\BewegendeDeeltjes\bin\Debug\BewegendeDeeltjes.pdb
+C:\Users\Dick\AppData\Local\Temporary Projects\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.Form1.resources
+C:\Users\Dick\AppData\Local\Temporary Projects\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.Properties.Resources.resources
+C:\Users\Dick\AppData\Local\Temporary Projects\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.csproj.GenerateResource.Cache
+C:\Users\Dick\AppData\Local\Temporary Projects\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.exe
+C:\Users\Dick\AppData\Local\Temporary Projects\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\BewegendeDeeltjes\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\BewegendeDeeltjes\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\BewegendeDeeltjes\BewegendeDeeltjes\bin\Debug\BewegendeDeeltjes.exe
+C:\Users\Dick\documents\visual studio 2010\Projects\BewegendeDeeltjes\BewegendeDeeltjes\bin\Debug\BewegendeDeeltjes.pdb
+C:\Users\Dick\documents\visual studio 2010\Projects\BewegendeDeeltjes\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.Form1.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\BewegendeDeeltjes\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.Properties.Resources.resources
+C:\Users\Dick\documents\visual studio 2010\Projects\BewegendeDeeltjes\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.csproj.GenerateResource.Cache
+C:\Users\Dick\documents\visual studio 2010\Projects\BewegendeDeeltjes\BewegendeDeeltjes\obj\x86\Debug\BewegendeDeeltjes.csprojResolveAssemblyReference.cache
